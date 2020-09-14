@@ -1,0 +1,3 @@
+该版本为ES-IK 7.6.1版本源码
+可以参考我的博客:ES 实现实时从Mysql数据库中读取热词,停用词
+地址:https://www.cnblogs.com/flower-dance/p/13664064.html
